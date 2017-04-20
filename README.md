@@ -1,4 +1,7 @@
-# test coverage for  [dom-delegator (v13.1.0)](https://github.com/Raynos/dom-delegator)  [![npm package](https://img.shields.io/npm/v/npmtest-dom-delegator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dom-delegator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dom-delegator.svg)](https://travis-ci.org/npmtest/node-npmtest-dom-delegator)
+# npmtest-dom-delegator
+
+#### basic test coverage for  [dom-delegator (v13.1.0)](https://github.com/Raynos/dom-delegator)  [![npm package](https://img.shields.io/npm/v/npmtest-dom-delegator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dom-delegator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dom-delegator.svg)](https://travis-ci.org/npmtest/node-npmtest-dom-delegator)
+
 #### Decorate elements with delegated events
 
 [![NPM](https://nodei.co/npm/dom-delegator.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dom-delegator)
